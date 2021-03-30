@@ -5,6 +5,7 @@
 |------|-------|
 |1|[class1](https://mahmoud-salameh.github.io/reading-notes/class1)|
 |2|[growthmindset](https://mahmoud-salameh.github.io/reading-notes/growthmindset)|
+|3|[read02a](https://mahmoud-salameh.github.io/reading-notes/read02a)|
 
 
 
