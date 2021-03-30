@@ -15,4 +15,3 @@ __Examples:__
 | Strikethrough	|~~ ~~	 |~~This was mistaken text~~	 |	
 
 
-

@@ -8,10 +8,3 @@
 |3|[read02a](https://mahmoud-salameh.github.io/reading-notes/read02a)|
 |3|[read02b](https://mahmoud-salameh.github.io/reading-notes/read02b)|
 
-
-
-
-
-
-
-
