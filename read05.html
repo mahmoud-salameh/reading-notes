@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+
+            <style>
+                table, th, td {
+                  border: 1px solid black;
+                }
+                </style>
+
+        </head>
+
+
+        <body>
+
+            <header >
+               
+                <p><h1>operators evaluating conditions</h1> 
+                </p>
+               
+               
+               
+               
+                
+
+               <style>
+                
+                
+                
+                p {text-align: center;}
+
+                img { display: block; margin-left: auto; margin-right: auto; }
+                h1 {text-align: center;}
+                h1 {color: rgb(26, 187, 80);}
+                h1 {font-size:350%;}
+                hr {background-color: rgb(155, 60, 36);}
+                h2 {color: rgb(211, 211, 52);}
+
+                </style>
+
+                 <img style="height: 750px;" src="https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2017/12/Python-Operators-2.jpg" alt="logo">
+
+            </header>
+
+            <main>
+
+
+                <p>
+                    <h2>USING
+                        COMPARISON OPERATORS </h2>
+
+                    
+                </p>
+                At the most basic level, you can
+                evaluate two variables using a
+                comparison operator to return a
+                 t rue or f al se value.
+                In this example, a user is taking a
+                test, and the script tells the user
+                whether they have passed this
+                round of the test.
+                The example starts by setting
+                two variables:
+                    <ul>
+                        <li>
+                            pass to hold the pass mark
+                        </li>
+                        <li>
+                            score to hold the users score
+                        </li>
+                        
+
+                    </ul>
+
+                    To see if the user has passed,
+                    a comparison operator checks
+                    whether scor e is greater than or
+                    equal to pass. The result will be
+                    true or false, and is stored in
+                    a variable called has Passed. On
+                    the next line, the result is written
+                    to the screen. 
+                    The last two lines select the
+element whose id attribute
+has a value of answer, and then
+updates its contents. You will
+learn more about this technique
+in the next chapter. 
+JAVASCRIPT c04/ js/ comparison-operator.js
+var pass = 50; II Pass mark
+var score = 90; II Score
+II Check if t he user has passed
+var hasPassed = score >= pass;
+II Write the message i nt o the page
+var el = document .getEl ementByld(' answe r ');
+e 1 . t extContent = 'Leve 1 passed: ' + has Passed; 
+result 
+Level passed: true 
+
+                    
+
+
+
+
+                    <p>
+                        <h2>
+                            Logical Operators
+
+                        </h2>
+                    </p>
+                    Here is an example of awhil e
+                    loop. It writes out the 5 times
+                    table. Each time the loop is run,
+                    another calculation is written
+                    into the variable called msg.
+                    This loop will continue to run
+                    for as long as the condition in
+                    the parentheses is true. That
+                    condition is a counter indicating
+                    that, as long as the variable
+                    i remains less than 10, the
+                    statements in the subsequent
+                    code block should run.
+                    Inside the code block there are
+                    two statements:
+                    The first statement uses the+=
+                    operator, which is used to add
+                    new content to the msg variable.
+                    Each time the loop runs, a new
+                    calculation and line break is
+                    added to the end of the message
+                    being stored in it. So+" works as
+                    a shorthand for writing:
+                    msg = msg + 'new msg'
+                    (See bottom of the next page for
+                    a breakdown of this statement.)
+                    The second statement
+                    increments the counter variable
+                    by one. (This is done inside
+                    the loop rather than with the
+                    condition.)
+                    When the loop has finished, the
+                    interpreter goes to the next line
+                    of code, which writes the msg
+                    variable to the page. 
+                    
+
+
+
+                   
+                    <table style="width:100%">
+                        
+
+                        
+                        
+                        
+                        
+                        
+                        <tr>
+                          <th>Sign
+                        </th>
+                          <th>Name</th> 
+                          <tr>
+                            <tr>
+                            <td> && 	 </td>
+                            <td>Returns true if both statements are true	
+                          </td>
+                        </th>
+                        <tr>
+                          <td> || 	 	 </td>
+                            <td>Returns true if one of the statements is true
+                            </td>
+                            <tr>		
+                          </td>
+                          <td>! </td>
+                          <td>Reverse the result, returns false if the result is true			
+                        </td>
+                    </tr>
+                    <tr></tr>
+                            <td> <
+                          </td>
+                            <td>lees than</td> 
+                        </tr>
+
+                            <tr>
+                                <td> >
+                              </td>
+                                <td>greater than</td> 
+                          
+                        </tr>
+                        <tr>
+                          <td>==</td>
+                          <td>is equal to
+                        </td>
+                          
+                        </tr>
+                    
+                        <tr>
+                      <td> !=	</td>
+                      <td>is not equal to
+                    </td>
+                      
+                        </tr>
+                         <tr>
+                      <td> === </td>
+                      <td>strict equal to
+                    </td>
+                      
+                        </tr>
+                        <td> !== </td>
+                      <td>strict not equal to
+                    </td>
+                      
+                        </tr>
+                        
+                      </table>
+                      Examples:
+                      <p>
+                        
+
+                        var text = "";var i;for (i = 0; i < 5; i++) 
+                        {  text += "The number is " + i + "< br>";} 
+                        document.getElementById("demo").innerHTML = text;
+
+                    </p>
+                    <p>
+
+                        var text = ""; var i = 0; while (i < 10) 
+                        {   text += "< br>The number is " + i;  i++;}
+                        document.getElementById("demo").innerHTML = text;
+
+                      </p>
+
+                     
+            </main>
+
+
+            <footer>
+
+
+                <p>all right reserved &COPY; </p>
+
+
+            </footer>
+            
+        </body>
+    </html>    

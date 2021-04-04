@@ -10,5 +10,6 @@
 |5|[quiz2](https://mahmoud-salameh.github.io/reading-notes/quiz2)|
 |6|[read03](https://mahmoud-salameh.github.io/reading-notes/read03)|
 |7|[read04](https://mahmoud-salameh.github.io/reading-notes/read04)|
+|8|[read05](https://mahmoud-salameh.github.io/reading-notes/read05)|
 
 
