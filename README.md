@@ -13,7 +13,7 @@
 |7|[read05](https://mahmoud-salameh.github.io/reading-notes/read05)|
 |9|[class-01](https://mahmoud-salameh.github.io/reading-notes/class-01)|
 |10|[class-02](https://mahmoud-salameh.github.io/reading-notes/class-02)|
-|11|[class-03](https://mahmoud-salameh.github.io/reading-notes/class-3)|
+|11|[class-03](https://mahmoud-salameh.github.io/reading-notes/class-03)|
 |12|[class-04](https://mahmoud-salameh.github.io/reading-notes/class-04)|
 |13|[class-05](https://mahmoud-salameh.github.io/reading-notes/class-05)|
 |14|[class-06](https://mahmoud-salameh.github.io/reading-notes/class-06)|
