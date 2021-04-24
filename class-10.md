@@ -99,15 +99,15 @@ Google called Google Analytics.
 
 __PRACTICAL INFORMATION Summary:__
 
-X Search engine optimization helps visitors find your
+* Search engine optimization helps visitors find your
 sites when using search engines.
-X Analytics tools such as Google Analytics allow you to
+* Analytics tools such as Google Analytics allow you to
 see how many people visit your site, how they find it,
 and what they do when they get there.
-X To put your site on the web, you will need to obtain a
+* To put your site on the web, you will need to obtain a
 domain name and web hosting.
-X FTP programs allow you to transfer files from your
+* FTP programs allow you to transfer files from your
 local computer to your web server.
-X Many companies provide platforms for blogging, email
+* Many companies provide platforms for blogging, email
 newsletters, e-commerce and other popular website
 tools (to save you writing them from scratch).
