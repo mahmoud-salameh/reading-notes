@@ -7,7 +7,7 @@ __Controlling sizes of images in CSS__
 
 You can control the size of an image using the width and height properties in CSS, just like you can for any other box.
 
-![example of img](https://css-tricks.com/wp-content/uploads/2014/05/sizes-attribute1.svg).
+![example of img](https://css-tricks.com/wp-content/uploads/2014/05/sizes-attribute1.svg)
 
 First you need to determine the sizes of images that will be used commonly throughout the site, then give each size a name.
 
@@ -71,7 +71,7 @@ load, you can create image sprites.
 In every page of your website there are seven key places where keywords (the words people might search on to find your site) can appear in order to improve its findability.
 
 1: Page Title The page title appears at the top of the browser window or on the tab of a browser. 
-It is specified in the < title> element which lives inside the <head> element.
+It is specified in the < title> element which lives inside the < head> element.
 
 2: URL / Web Address The name of the file is part of the URL. 
 Where possible, use keywords in the file name.
@@ -86,7 +86,7 @@ Where possible, use keywords in the file name.
 This will also help your images show up in the results of image-based searches.
 
 
-7: Page Descriptions The description also lives insidethe < head> element and is specified using a <meta> tag.
+7: Page Descriptions The description also lives insidethe < head> element and is specified using a < meta> tag.
 It should be a sentence that describes the content of the page.
 
 __Analytics: Learning about your Visitors__
