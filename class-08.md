@@ -22,9 +22,6 @@ If the form control allows the user to enter text, then the value of the form co
 
 If the form control allows you to choose from a fixed set of answers (e.g. radio buttons, checkboxes or a drop down list), the web page author will add code that gives each option an automatic value.
 
-https://i.ytimg.com/vi/NfmB5Q4U1sk/maxresdefault.jpg
-
-
 ![example of forms](https://www.htmlgoodies.com/img/2010/06/HTML-Forms-From-Basics-to-Style-Layouts-Figure2.gif)
 
 
