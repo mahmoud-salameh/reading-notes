@@ -37,3 +37,4 @@
 |1|[class01](https://mahmoud-salameh.github.io/reading-notes/class01)|
 |2|[class02](https://mahmoud-salameh.github.io/reading-notes/class02)|
 |3|[class03](https://mahmoud-salameh.github.io/reading-notes/class03)|
+|4|[class04](https://mahmoud-salameh.github.io/reading-notes/class04)|
