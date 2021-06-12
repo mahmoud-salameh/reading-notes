@@ -38,4 +38,5 @@
 |2|[class02](https://mahmoud-salameh.github.io/reading-notes/class02)|
 |3|[class03](https://mahmoud-salameh.github.io/reading-notes/class03)|
 |4|[class04](https://mahmoud-salameh.github.io/reading-notes/class04)|
-|4|[class05](https://mahmoud-salameh.github.io/reading-notes/class05)|
+|5|[class05](https://mahmoud-salameh.github.io/reading-notes/class05)|
+|6|[class06](https://mahmoud-salameh.github.io/reading-notes/class06)|
