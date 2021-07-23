@@ -1,8 +1,17 @@
-# __*Code 201 Reading-Notes*__ 
+# __*Reading-Notes*__ 
 
 ![web bage intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoIX-caR8One3fx1xxsMKUQbADvYe4URSQzg&usqp=CAU)
 
-|#|TITLE|
+
+__**Welcome to reading summary, here you can find notes about classes.**__
+
+## __**Who am i?**__
+I'm Mahmoud Salameh, from Jordan, i was born in Amman, . I'm 28 years old, I have bachelor degree in civil engineering from MEU.
+
+## __*Code 102 - Intro to Software Development & Code 201 - Foundations of Software Development*__ 
+
+
+|#|201 Reading Notes|
 |------|-------|
 |1|[class1](https://mahmoud-salameh.github.io/reading-notes/class1)|
 |2|[growthmindset](https://mahmoud-salameh.github.io/reading-notes/growthmindset)|
@@ -28,11 +37,11 @@
 |23|[class-15](https://mahmoud-salameh.github.io/reading-notes/class-15)|
 
 
-# __*Code 301 Reading-Notes*__ 
+## __*Code 301 - Intermediate Software Development*__ 
 
 
 
-|#|TITLE|
+|#|301 Reading Notes|
 |------|-------|
 |1|[class01](https://mahmoud-salameh.github.io/reading-notes/class01)|
 |2|[class02](https://mahmoud-salameh.github.io/reading-notes/class02)|
@@ -48,3 +57,26 @@
 |12|[class12](https://mahmoud-salameh.github.io/reading-notes/class12)|
 |13|[class13](https://mahmoud-salameh.github.io/reading-notes/class13)|
 |14|[class14](https://mahmoud-salameh.github.io/reading-notes/class14)|
+
+
+
+## __*Code 401 - Advanced Software Development*__ 
+
+
+
+|#|401 Reading Notes|
+|------|-------|
+|1|[class4_01](https://mahmoud-salameh.github.io/reading-notes/class4_01)|
+<!-- |2|[class02](https://mahmoud-salameh.github.io/reading-notes/class02)|
+|3|[class03](https://mahmoud-salameh.github.io/reading-notes/class03)|
+|4|[class04](https://mahmoud-salameh.github.io/reading-notes/class04)|
+|5|[class05](https://mahmoud-salameh.github.io/reading-notes/class05)|
+|6|[class06](https://mahmoud-salameh.github.io/reading-notes/class06)|
+|7|[class07](https://mahmoud-salameh.github.io/reading-notes/class07)|
+|8|[class08](https://mahmoud-salameh.github.io/reading-notes/class08)|
+|9|[class09](https://mahmoud-salameh.github.io/reading-notes/class09)|
+|10|[class10](https://mahmoud-salameh.github.io/reading-notes/class10)|
+|11|[class11](https://mahmoud-salameh.github.io/reading-notes/class11)|
+|12|[class12](https://mahmoud-salameh.github.io/reading-notes/class12)|
+|13|[class13](https://mahmoud-salameh.github.io/reading-notes/class13)|
+|14|[class14](https://mahmoud-salameh.github.io/reading-notes/class14)| -->
