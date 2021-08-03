@@ -52,8 +52,20 @@ For the next example, assume we want to create a list of squares. Start with an 
     print squares
     [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 
+>>> [double(x) for x in range(10)]
 
-__**Multiplying parts of a list**__
+print double
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+
+# You can put in conditions:
+
+>>> [double(x) for x in range(10) if x%2==0]
+[0, 4, 8, 12, 16]
+
+# You can add more arguments:
+
+>>> [x+y for x in [10,30,50] for y in [20,40,60]]
+[30, 50, 70, 50, 70, 90, 70, 90, 110]
 
 Multiply every part of a list by three and assign it to a new list.
 
@@ -71,7 +83,20 @@ Now, let’s see how we can use list comprehension in functions.
     # Create a function and name it double:
     def double(x):
   return x*2
+>>> [double(x) for x in range(10)]
 
+print double
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+
+# You can put in conditions:
+
+>>> [double(x) for x in range(10) if x%2==0]
+[0, 4, 8, 12, 16]
+
+# You can add more arguments:
+
+>>> [x+y for x in [10,30,50] for y in [20,40,60]]
+[30, 50, 70, 50, 70, 90, 70, 90, 110]
     # If you now just print that function with a value in it, it should look like this:
     >>> print double(10)
     20
