@@ -82,7 +82,7 @@ I'm Mahmoud Salameh, from Jordan, i was born in Amman, . I'm 28 years old, I hav
 |14|[class4_14](https://mahmoud-salameh.github.io/reading-notes/class4_14)| 
 |15|[class4_15](https://mahmoud-salameh.github.io/reading-notes/class4_15)|
 |16|[class4_16](https://mahmoud-salameh.github.io/reading-notes/class4_16)|
-<!--
 |17|[class4_17](https://mahmoud-salameh.github.io/reading-notes/class4_17)|
+<!--
 |18|[class4_18](https://mahmoud-salameh.github.io/reading-notes/class4_18)|
 |19|[class4_19](https://mahmoud-salameh.github.io/reading-notes/class4_19)|-->
